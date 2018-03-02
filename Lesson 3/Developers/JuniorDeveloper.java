@@ -1,5 +1,3 @@
-package com.company;
-
 public class JuniorDeveloper extends Developer {
 
     public JuniorDeveloper(String name, double basicSalary, int experience){

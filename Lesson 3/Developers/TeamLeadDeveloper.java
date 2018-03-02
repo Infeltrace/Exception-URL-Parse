@@ -1,5 +1,3 @@
-package com.company;
-
 public class TeamLeadDeveloper extends Developer {
 
     public TeamLeadDeveloper(String name, double basicSalary, int experience) {

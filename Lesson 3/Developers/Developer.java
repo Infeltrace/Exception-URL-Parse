@@ -1,5 +1,3 @@
-package com.company;
-
 public abstract class Developer {
     protected String name;
     protected double basicSalary;

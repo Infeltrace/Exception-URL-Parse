@@ -1,7 +1,4 @@
-package com.company;
-
 public class MiddleDeveloper extends Developer {
-
 
     public MiddleDeveloper(String name, double basicSalary, int experience) {
         super(name, basicSalary, experience);
