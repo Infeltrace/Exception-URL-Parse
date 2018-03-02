@@ -1,6 +1,4 @@
-package com.company;
-
-public class Nokia3310 extends Phone{
+public class Nokia3310 extends Phone {
 
     public Nokia3310(){
         touch = false;

@@ -1,5 +1,3 @@
-package com.company;
-
 public class SamsungS4 extends Phone {
 
     public SamsungS4(){
