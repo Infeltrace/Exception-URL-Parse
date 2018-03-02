@@ -1,5 +1,3 @@
-package com.company;
-
 public class ParseAnalogy {
 
      static public int parseInt(String string)throws NumberFormatException{
